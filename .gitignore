@@ -1,0 +1,6 @@
+secrets.txt
+pswd.txt
+desktop.ini
+
+#This is a comment
+#We can also use wildcards like *.txt to ignore all text files
